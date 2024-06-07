@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/06/05 13:22:39.000.287,=C:\Users\IvesPassos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/06/05 13:24:00.000.194,C:\Users\IvesPassos\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Projetos\Delphi\WK\src\view\uPrincipal.dfm</Transaction>
+    <Transaction>2024/06/05 13:24:00.000.194,C:\Users\IvesPassos\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Projetos\Delphi\WK\src\view\uPrincipal.pas</Transaction>
+    <Transaction>2024/06/05 13:24:46.000.293,=C:\Users\IvesPassos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/06/05 13:26:41.000.255,C:\Users\IvesPassos\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Projetos\Delphi\WK\src\model\Src.Model.Cliente.pas</Transaction>
+    <Transaction>2024/06/05 13:26:53.000.290,C:\Users\IvesPassos\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Projetos\Delphi\WK\WK.dproj</Transaction>
+    <Transaction>2024/06/05 13:28:32.000.959,=C:\Projetos\Delphi\WK\Unit1.pas</Transaction>
+    <Transaction>2024/06/05 13:29:18.000.407,C:\Projetos\Delphi\WK\Unit1.pas=C:\Projetos\Delphi\WK\src\model\Src.Model.Produto.pas</Transaction>
+    <Transaction>2024/06/05 13:31:39.000.620,=C:\Projetos\Delphi\WK\Unit1.pas</Transaction>
+    <Transaction>2024/06/05 13:33:36.000.577,C:\Projetos\Delphi\WK\Unit1.pas=C:\Projetos\Delphi\WK\src\model\Src.Model.Pedido.pas</Transaction>
+    <Transaction>2024/06/05 13:36:07.000.955,=C:\Projetos\Delphi\WK\Unit1.pas</Transaction>
+    <Transaction>2024/06/05 13:38:04.000.975,C:\Projetos\Delphi\WK\Unit1.pas=C:\Projetos\Delphi\WK\src\model\Src.Model.Item.pas</Transaction>
+    <Transaction>2024/06/05 13:41:33.000.597,=C:\Projetos\Delphi\WK\Unit1.pas</Transaction>
+    <Transaction>2024/06/05 13:44:33.000.255,C:\Projetos\Delphi\WK\Unit1.pas=C:\Projetos\Delphi\WK\src\controller\Src.Controller.Cliente.pas</Transaction>
+    <Transaction>2024/06/05 13:46:24.000.968,=C:\Projetos\Delphi\WK\Unit1.pas</Transaction>
+    <Transaction>2024/06/05 13:48:23.000.755,C:\Projetos\Delphi\WK\Unit1.pas=C:\Projetos\Delphi\WK\src\controller\Src.Controller.Produto.pas</Transaction>
+    <Transaction>2024/06/05 13:50:14.000.988,=C:\Projetos\Delphi\WK\Unit1.pas</Transaction>
+    <Transaction>2024/06/05 13:52:16.000.945,C:\Projetos\Delphi\WK\Unit1.pas=C:\Projetos\Delphi\WK\src\controller\Src.Controller.Pedido.pas</Transaction>
+    <Transaction>2024/06/05 13:55:28.000.477,=C:\Projetos\Delphi\WK\Unit1.pas</Transaction>
+    <Transaction>2024/06/05 13:58:40.000.239,C:\Projetos\Delphi\WK\Unit1.pas=C:\Projetos\Delphi\WK\src\controller\Src.Controller.Item.pas</Transaction>
+    <Transaction>2024/06/05 14:03:21.000.127,=C:\Projetos\Delphi\WK\Unit1.pas</Transaction>
+    <Transaction>2024/06/05 14:06:29.000.815,C:\Projetos\Delphi\WK\Unit1.pas=C:\Projetos\Delphi\WK\src\model\Src.Model.Conexao.pas</Transaction>
+    <Transaction>2024/06/05 14:07:41.000.830,=C:\Projetos\Delphi\WK\Unit1.pas</Transaction>
+    <Transaction>2024/06/05 14:09:09.000.584,C:\Projetos\Delphi\WK\Unit1.pas=C:\Projetos\Delphi\WK\src\controller\Src.Controller.Conexao.pas</Transaction>
+    <Transaction>2024/06/05 14:18:11.000.463,=C:\Projetos\Delphi\WK\src\view\uView.Main.pas</Transaction>
+    <Transaction>2024/06/05 14:23:49.000.479,C:\Projetos\Delphi\WK\src\view\uPrincipal.pas=C:\Projetos\Delphi\WK\src\view\Src.View.Pedido.pas</Transaction>
+    <Transaction>2024/06/05 14:23:49.000.479,C:\Projetos\Delphi\WK\src\view\uPrincipal.dfm=C:\Projetos\Delphi\WK\src\view\Src.View.Pedido.dfm</Transaction>
+    <Transaction>2024/06/05 14:29:56.000.528,C:\Projetos\Delphi\WK\src\view\Src.View.Pedido.pas=</Transaction>
+    <Transaction>2024/06/05 14:35:20.000.579,=C:\Projetos\Delphi\WK\Unit1.pas</Transaction>
+    <Transaction>2024/06/05 14:36:13.000.762,C:\Projetos\Delphi\WK\Unit1.pas=C:\Projetos\Delphi\WK\src\view\uPedido.pas</Transaction>
+    <Transaction>2024/06/05 14:36:13.000.762,C:\Projetos\Delphi\WK\Unit1.dfm=C:\Projetos\Delphi\WK\src\view\uPedido.dfm</Transaction>
+    <Transaction>2024/06/06 12:04:56.000.312,=C:\Projetos\Delphi\WK\Unit1.pas</Transaction>
+    <Transaction>2024/06/06 12:05:33.000.240,C:\Projetos\Delphi\WK\src\controller\Src.Controller.CargaBase.pas=C:\Projetos\Delphi\WK\Unit1.pas</Transaction>
+    <Transaction>2024/06/06 15:20:46.000.218,=C:\Projetos\Delphi\WK\Unit1.pas</Transaction>
+    <Transaction>2024/06/06 15:21:41.000.149,C:\Projetos\Delphi\WK\Unit1.dfm=C:\Projetos\Delphi\WK\src\view\uViewBuscaPedido.dfm</Transaction>
+    <Transaction>2024/06/06 15:21:41.000.149,C:\Projetos\Delphi\WK\Unit1.pas=C:\Projetos\Delphi\WK\src\view\uViewBuscaPedido.pas</Transaction>
+  </Transactions>
+</BorlandProject>
